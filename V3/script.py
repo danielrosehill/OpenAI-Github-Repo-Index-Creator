@@ -60,9 +60,13 @@ def generate_index(repos):
 
 {repo_list}
 
-Please group the repositories into categories. If repositories have a similar theme, they should be grouped together under a heading. The headings should be H2s.
+Please group the repositories into categories.
 
-Additionally, convert the repository names to make them more readable. For example, 'Prompts-And-Outputs' should be converted to 'Prompts And Outputs'.
+If repositories have a similar theme, they should be grouped together under a heading. The headings should be H2s.
+
+Organise the categories alphabetically.
+
+Convert the repository names to make them more readable. For example, 'Prompts-And-Outputs' should be converted to 'Prompts And Outputs'.
 
 Each repository should be a link to its GitHub URL.
 """
